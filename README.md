@@ -10,13 +10,15 @@ Dynamic Software Engineer with robust experience in **software testing**, **web 
 Currently pursuing a **Master’s in Computer Science** at Northwest Missouri State University (GPA: 3.8).  
 Passionate about delivering innovative solutions and contributing to organizational success.  
 
+![About Me GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
+
 ---
 
 ## 💻 Technical Skills  
 
 | **Category**          | **Technologies**                     |
 |------------------------|--------------------------------------|
-| **Programming**        | C, C++, Java, SQL , Python       |
+| **Programming**        | C, C++, Java, SQL, Python           |
 | **AI/ML Tools**        | scikit-learn, pandas, NumPy         |
 | **Web Development**    | HTML, CSS, JavaScript, Flask/Django |
 | **Testing Frameworks** | Selenium, MTM, Microsoft Azure      |
@@ -30,6 +32,8 @@ Passionate about delivering innovative solutions and contributing to organizatio
 - Oracle Cloud Infrastructure Foundations 2021  
 - Advanced SQL Online Course (Great Learning)  
 
+![Certifications GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+
 ---
 
 ## 🚀 Featured Projects  
@@ -42,6 +46,8 @@ Leveraging **AI/ML algorithms** to enhance prediction accuracy and safety in air
 ### **[Exchange Pro Android App](#)**  
 Secure and dynamic marketplace for exchanging goods and services.  
 - Key Features: User Authentication, Bidding System, Secure Messaging  
+
+![Projects GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
 
 ---
 
@@ -68,4 +74,4 @@ Secure and dynamic marketplace for exchanging goods and services.
 ## 🔗 Let's Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sai-sravani-veeranki-38092022b/)  
-
+ 
