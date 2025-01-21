@@ -67,5 +67,5 @@ Secure and dynamic marketplace for exchanging goods and services.
 
 ## 🔗 Let's Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](www.linkedin.com/in/sai-sravani-veeranki-38092022b)  
 
