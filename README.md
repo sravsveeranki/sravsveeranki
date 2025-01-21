@@ -1,7 +1,6 @@
 # 👩‍💻 Sai Sravani Veeranki  
 
-📧 veerankisaisravaniusa@gmail.com  
-📞 +1 660-528-1808 | 📍 Maryville, MO, USA  
+📧 veerankisaisravaniusa@gmail.com  | 📍 Maryville, MO, USA  
 
 ---
 
@@ -27,8 +26,8 @@ Passionate about delivering innovative solutions and contributing to organizatio
 
 ## 🏆 Certifications  
 
-- ![Microsoft Azure Fundamentals](https://www.credly.com/)  
-- ![Power Platform Fundamentals](https://www.credly.com/)  
+- Microsoft Azure Fundamentals
+- Power Platform Fundamentals  
 - Oracle Cloud Infrastructure Foundations 2021  
 - Advanced SQL Online Course (Great Learning)  
 
