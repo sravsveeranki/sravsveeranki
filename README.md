@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 Dynamic Software Engineer with robust experience in **software testing**, **web development**, and **AI/ML solutions**.  
-Currently pursuing a **Master’s in Computer Science** at Northwest Missouri State University.  
+Currently pursuing a **Master’s in Computer Science** at Northwest Missouri State University. 
 Passionate about delivering innovative solutions and contributing to organizational success.  
 
 ![About Me GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
