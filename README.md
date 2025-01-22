@@ -31,7 +31,8 @@ Let’s work together to build secure, efficient, and scalable software solution
 ## 🏆 Certifications  
 
 - Microsoft Azure Fundamentals
-- Power Platform Fundamentals  
+- Microsoft Power Platform Fundamentals
+- Microsoft Security, Compliance, and Identity Fundamentals
 - Oracle Cloud Infrastructure Foundations 2021  
 - Advanced SQL Online Course (Great Learning)  
 
