@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 Dynamic Software Engineer with robust experience in **software testing**, **web development**, and **AI/ML solutions**.  
-Currently pursuing a **Master’s in Computer Science** at Northwest Missouri State University (GPA: 3.8).  
+Currently pursuing a **Master’s in Computer Science** at Northwest Missouri State University.  
 Passionate about delivering innovative solutions and contributing to organizational success.  
 
 ![About Me GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
@@ -63,7 +63,7 @@ Secure and dynamic marketplace for exchanging goods and services.
 ## 📚 Education  
 
 - **Master’s in Computer Science**  
-  Northwest Missouri State University | 2023 - 2024 (GPA: 3.8)  
+  Northwest Missouri State University | 2023 - 2024 
 
 - **B.Tech in Electronics and Communication Engineering**  
   NRI Institute of Technology, India | 2017 - 2021  
