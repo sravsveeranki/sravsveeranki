@@ -58,10 +58,13 @@ Secure and dynamic marketplace for exchanging goods and services.
 
 ### Associate Software Engineer  
 **Accenture** (Nov 2021 - Sep 2023)  
-- Expertise in **Microsoft Test Manager (MTM)** and **Selenium Automation**.  
-- Conducted **UAT/PAT** to ensure functionality in production environments.  
-- Enhanced website functionality and delivered improved user experiences.  
-
+- Demonstrated proficiency in Microsoft Test Manager (MTM) and Selenium Automation to design, execute, and validate test cases for web applications.
+- Conducted User Acceptance Testing (UAT) and Production Acceptance Testing (PAT) to ensure functionality, stability, and compliance with requirements in production environments.
+- Identified, analyzed, and reported bugs, collaborating with cross-functional teams to implement resolutions effectively using Microsoft Azure.
+- Provided critical support for deployment activities by performing pre- and post-deployment validations, ensuring seamless system integration.
+- Contributed to the development and enhancement of website functionalities, focusing on delivering an improved user experience.
+- Actively supported backend operations by executing and monitoring scheduled automated processes to maintain application performance and reliability.
+- Played a pivotal role in ensuring smooth application functioning by troubleshooting issues and delivering robust solutions.
 ---
 
 ## 📚 Education  
