@@ -5,9 +5,13 @@
 ---
 
 ## 🌟 About Me  
-Dynamic Software Engineer with robust experience in **software testing**, **web development**, and **AI/ML solutions**.  
-Currently pursuing a **Master’s in Computer Science** at Northwest Missouri State University.  
-Passionate about delivering innovative solutions and contributing to organizational success.  
+I am a dynamic Software Engineer with a strong foundation in software testing, web development, and a keen interest in AI/ML-driven solutions. With two years of professional experience at Accenture, I’ve honed my skills in Selenium Automation, Microsoft Azure, and UAT/PAT testing, contributing to robust, user-friendly applications.
+
+Currently pursuing a Master’s in Computer Science at Northwest Missouri State University, I am passionate about leveraging technology to solve complex problems and deliver innovative solutions. My recent projects, including an AI-driven air traffic control system and the Exchange Pro Android app, showcase my ability to combine technical expertise with creative problem-solving.
+
+As a dedicated learner with certifications in Azure Fundamentals and Power Platform, I’m committed to continuous professional growth and delivering impactful results in the fields of web application development, and quality assurance.
+
+Let’s work together to build secure, efficient, and scalable software solutions! 🚀
 
 ![About Me GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
 
