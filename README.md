@@ -52,7 +52,7 @@ Flask/Django for backend development and web application integration.
 Google Colab for running and testing ML models efficiently.
 Achievements:
 
-Successfully achieved a high prediction accuracy rate of [Accuracy %].
+Successfully achieved a high prediction accuracy rate.
 Successfully implemented models that effectively minimize potential risks in air traffic.
  
 
