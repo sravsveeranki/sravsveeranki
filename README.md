@@ -38,7 +38,7 @@ Let’s work together to build secure, efficient, and scalable software solution
 - Automation in the AWS Cloud
 - AWS Cloud Technical Essentials
 - Introduction to Machine Learning on AWS
-- Selenim WebDriver with Python 
+- Selenium WebDriver with Python 
 
 ![Certifications GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
 
