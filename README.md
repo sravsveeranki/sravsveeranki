@@ -31,7 +31,6 @@ Let’s work together to build secure, efficient, and scalable software solution
 ## 🏆 Certifications  
 
 •	AWS Certified Developer – Associate
-
 •	AWS Cloud Technical Essentials
 •	Advanced SQL 
 •	Automation in the AWS Cloud
