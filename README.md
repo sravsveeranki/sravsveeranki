@@ -127,7 +127,8 @@ This app aims to create a seamless and trustworthy exchange environment, enablin
 
 - Supported cross-functional teams in the enhancement of web applications by participating in code reviews, sprint planning, and daily stand-ups. Provided quality feedback and suggestions based on test results and user behavior analytics.
 
-Participated in responsive design testing, cross-browser compatibility checks, and accessibility compliance validation (WCAG guidelines) to ensure a seamless user experience across platforms.
+- Participated in responsive design testing, cross-browser compatibility checks, and accessibility compliance validation (WCAG guidelines) to ensure a seamless user experience across platforms.
+
 ---
 
 ## 📚 Education  
