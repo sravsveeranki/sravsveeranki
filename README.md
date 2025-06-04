@@ -108,13 +108,26 @@ This app aims to create a seamless and trustworthy exchange environment, enablin
 ### Associate Software Engineer  
 **Accenture** (Nov 2021 - Sep 2023)
 
-- Demonstrated proficiency in Microsoft Test Manager (MTM) and Selenium Automation to design, execute, and validate test cases for web applications.
-- Conducted User Acceptance Testing (UAT) and Production Acceptance Testing (PAT) to ensure functionality, stability, and compliance with requirements in production environments.
-- Identified, analyzed, and reported bugs, collaborating with cross-functional teams to implement resolutions effectively using Microsoft Azure.
-- Provided critical support for deployment activities by performing pre- and post-deployment validations, ensuring seamless system integration.
-- Contributed to the development and enhancement of website functionalities, focusing on delivering an improved user experience.
-- Actively supported backend operations by executing and monitoring scheduled automated processes to maintain application performance and reliability.
-- Played a pivotal role in ensuring smooth application functioning by troubleshooting issues and delivering robust solutions.
+
+- Led the design and execution of automated test frameworks using Selenium WebDriver, integrated with TestNG and Jenkins for continuous testing in CI/CD pipelines.
+
+- Specialized in Microsoft Test Manager (MTM) for managing test cases, planning test cycles, tracking defects, and reporting test execution status across Agile sprints.
+
+- Worked extensively with Microsoft Azure DevOps for version control, build/release automation, and defect management. Configured pipelines to automate test execution and deployment validation.
+
+- Conducted Pre-Deployment (QA environment smoke/sanity testing) and Post-Deployment (production verification testing) procedures to ensure stability and performance of releases across multiple environments.
+
+- Executed User Acceptance Testing (UAT) and Production Acceptance Testing (PAT) alongside stakeholders and end-users to validate business functionality and usability compliance.
+
+- Developed comprehensive end-to-end test strategies, including test plans, risk assessments, regression suites, and performance benchmarks tailored to web applications and backend services.
+
+- Utilized MS SQL Server for backend data validation, test data creation, and complex query execution. Performed root cause analysis by writing and debugging T-SQL queries to identify and resolve data inconsistencies and failures.
+
+- Actively collaborated in bug triaging sessions, ensuring timely resolution of defects with development and product teams. Logged and tracked issues using JIRA and Azure Boards.
+
+- Supported cross-functional teams in the enhancement of web applications by participating in code reviews, sprint planning, and daily stand-ups. Provided quality feedback and suggestions based on test results and user behavior analytics.
+
+Participated in responsive design testing, cross-browser compatibility checks, and accessibility compliance validation (WCAG guidelines) to ensure a seamless user experience across platforms.
 ---
 
 ## 📚 Education  
