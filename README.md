@@ -1,3 +1,4 @@
+
 # 👩‍💻 Sai Sravani Veeranki  
 
 📧 veerankisaisravaniusa@gmail.com  | 📍 Maryville, MO, USA  
@@ -76,6 +77,7 @@ I am eager to contribute to impactful software initiatives, apply my skills to c
 ## 🚀 Featured Projects  
 
 ### **[Air Traffic Prediction and Control](#)**  
+
 This project addresses the limitations of traditional air traffic control systems by integrating advanced Artificial Intelligence (AI) and Machine Learning (ML) techniques to develop a more accurate, intelligent, and responsive control system. The primary objective was to improve the prediction of air traffic patterns, reduce congestion, and enhance safety through proactive risk assessment.
 
 The solution involved the application of machine learning algorithms such as random forests, support vector machines (SVM), and deep learning models, trained on extensive historical U.S. International Air Traffic data. Emphasis was placed on surpassing the predictive limitations of legacy statistical models by focusing on model generalizability, accuracy, and robustness in dynamic airspace environments.
@@ -98,14 +100,27 @@ The final system demonstrated a significant improvement in predictive performanc
  
 
 ### **[Exchange Pro Android App](#)**  
-The Exchange Pro app is designed as a secure and dynamic digital marketplace, providing users with a platform to exchange goods and services efficiently. This application ensures safe transactions through advanced encryption and secure payment gateways.
 
-Key Features:
+Exchange Pro is a feature-rich Android application developed to provide a secure, user-friendly digital platform for the exchange of goods and services. The project was conceptualized to address challenges commonly encountered in peer-to-peer marketplaces, such as lack of trust, insecure communication, and payment vulnerabilities.
 
-User Authentication: Ensures secure access and identity verification for all users.
-Bidding System: Facilitates competitive and transparent bidding for goods and services.
-Secure Messaging: Provides a private and encrypted channel for communication between users.
-This app aims to create a seamless and trustworthy exchange environment, enabling users to engage in secure, hassle-free transactions while promoting economic interactions.
+The app focuses on enabling seamless, secure, and transparent interactions between users, allowing them to list products, place bids, negotiate terms, and finalize transactions—all within a controlled and encrypted ecosystem. Designed with user convenience and security in mind, Exchange Pro integrates core marketplace features with modern mobile development practices.
+
+**Key Contributions:**
+
+•	Designed and implemented user authentication workflows to ensure only verified users could access core features, significantly reducing spam and fraudulent behavior.
+
+•	Built a dynamic listing and bidding module that allows users to create detailed listings with images and descriptions, and actively participate in competitive bidding processes.
+
+•	Developed a secure, in-app messaging system to support negotiation and deal-making in real time, with privacy-first architecture to protect user data.
+
+•	Integrated a transaction tracking and invoice management feature to enhance post-sale accountability and user confidence.
+
+•	Implemented secure payment handling, ensuring encrypted, token-based transactions using simulated gateway mechanisms within the development environment.
+
+•	Designed a comprehensive user profile and dashboard module that helps users track activity history, manage listings, view transaction logs, and maintain transparency.
+
+The completed application delivered a robust and intuitive mobile experience, combining functionality with security. Exchange Pro facilitates trust-based digital commerce while offering a scalable architecture that supports growth and future feature expansion such as geolocation, rating systems, and smart contract integration.
+
 
 ![Projects GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
 
