@@ -30,15 +30,26 @@ Let’s work together to build secure, efficient, and scalable software solution
 
 ## 🏆 Certifications  
 
-- Microsoft Azure Fundamentals
-- Microsoft Power Platform Fundamentals
-- Microsoft Security, Compliance, and Identity Fundamentals
-- Oracle Cloud Infrastructure Foundations 2021  
-- Advanced SQL Online Course (Great Learning)
-- Automation in the AWS Cloud
-- AWS Cloud Technical Essentials
-- Introduction to Machine Learning on AWS
-- Selenium WebDriver with Python 
+•	AWS Certified Developer – Associate
+•	AWS Cloud Technical Essentials
+•	Advanced SQL 
+•	Automation in the AWS Cloud
+•	Fundamentals of VueJS
+•	Generative AI: Prompt Engineering Basics
+•	Google AI Essentials
+•	Introduction to Machine Learning on AWS
+•	Java (Basic) 
+•	JavaScript Deep Dive 
+•	Mastering Test Management and Tools
+•	Microsoft Certified: Azure Fundamentals
+•	Microsoft Certified: Power Platform Fundamentals
+•	Microsoft Certified: Security, Compliance, and Identity Fundamentals
+•	Oracle Cloud Infrastructure Foundations 2021
+•	Python (Basic) 
+•	SQL for Data Science 
+•	Selenium WebDriver with Python 
+•	Software Engineer 
+ 
 
 ![Certifications GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
 
