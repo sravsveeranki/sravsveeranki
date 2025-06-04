@@ -5,13 +5,13 @@
 ---
 
 ## About Me  
-I am a dynamic Software Engineer with a strong foundation in software testing, web development, and a keen interest in AI/ML-driven solutions. With two years of professional experience at Accenture, I’ve honed my skills in Selenium Automation, Microsoft Azure, and UAT/PAT testing, contributing to robust, user-friendly applications.
+Resourceful and driven Software Engineer with a strong academic and professional background in software development, testing, and system design. Recently completed Master's in Computer Science, which enriched my understanding of advanced computing concepts, problem-solving techniques, and the practical implementation of emerging technologies. Combined with prior hands-on experience, this has allowed me to bridge the gap between theory and application in real-world software projects.
 
-Currently pursuing a Master’s in Computer Science at Northwest Missouri State University, I am passionate about leveraging technology to solve complex problems and deliver innovative solutions. My recent projects, including an AI-driven air traffic control system and the Exchange Pro Android app, showcase my ability to combine technical expertise with creative problem-solving.
+Throughout my career, I have contributed to the development and enhancement of web and mobile applications, focusing on functionality, performance, and user experience. I’ve been actively involved in multiple stages of the software development lifecycle, including requirements gathering, test planning, quality assurance, deployment support, and production maintenance. My work has emphasized improving software reliability and efficiency through structured testing practices and clear documentation, while also contributing to frontend and backend development tasks as needed.
 
-As a dedicated learner with certifications in Azure Fundamentals and Power Platform, I’m committed to continuous professional growth and delivering impactful results in the fields of web application development, and quality assurance.
+With a strong aptitude for learning and the ability to adapt quickly to new environments and technologies, I am committed to continuous professional development. I enjoy working in collaborative, cross-functional teams and thrive in dynamic settings where innovation and user-focused design are key. My passion lies in solving complex problems with elegant, efficient solutions that meet both technical and business needs.
 
-Let’s work together to build secure, efficient, and scalable software solutions! 🚀
+I am eager to contribute to impactful software initiatives, apply my skills to challenging projects, and grow as part of a forward-thinking team.🚀
 
 ![About Me GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
 
