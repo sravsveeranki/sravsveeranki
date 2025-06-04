@@ -80,19 +80,19 @@ This project addresses the limitations of traditional air traffic control system
 
 The solution involved the application of machine learning algorithms such as random forests, support vector machines (SVM), and deep learning models, trained on extensive historical U.S. International Air Traffic data. Emphasis was placed on surpassing the predictive limitations of legacy statistical models by focusing on model generalizability, accuracy, and robustness in dynamic airspace environments.
 
-Key Contributions:
+**Key Contributions:**
 
-Collected, cleaned, and preprocessed aviation datasets using Python libraries including Pandas and NumPy.
+•	Collected, cleaned, and preprocessed aviation datasets using Python libraries including Pandas and NumPy.
 
-Built and evaluated multiple classification models, optimizing hyperparameters to achieve over 95% accuracy using metrics such as precision, recall, F1-score, and AUC-ROC.
+•	Built and evaluated multiple classification models, optimizing hyperparameters to achieve over 95% accuracy using metrics such as precision, recall, F1-score, and AUC-ROC.
 
-Compared traditional algorithms like logistic regression and decision trees with AI/ML models to demonstrate measurable improvements in prediction quality.
+•	Compared traditional algorithms like logistic regression and decision trees with AI/ML models to demonstrate measurable improvements in prediction quality.
 
-Designed a web interface using Flask/Django to simulate real-time integration with existing air traffic control systems.
+•	Designed a web interface using Flask/Django to simulate real-time integration with existing air traffic control systems.
 
-Deployed and tested the models using Google Colab, ensuring efficient resource utilization and collaborative experimentation.
+•	Deployed and tested the models using Google Colab, ensuring efficient resource utilization and collaborative experimentation.
 
-Focused on risk mitigation by predicting traffic surges and identifying collision-prone patterns, aiming to enhance safety and operational decision-making in aviation.
+•	Focused on risk mitigation by predicting traffic surges and identifying collision-prone patterns, aiming to enhance safety and operational decision-making in aviation.
 
 The final system demonstrated a significant improvement in predictive performance, with practical implications for smarter, AI-assisted traffic management that is scalable, accurate, and responsive to real-time air traffic conditions.
  
