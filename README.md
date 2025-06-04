@@ -31,23 +31,41 @@ Let’s work together to build secure, efficient, and scalable software solution
 ## 🏆 Certifications  
 
 •	AWS Certified Developer – Associate
+
 •	AWS Cloud Technical Essentials
+
 •	Advanced SQL 
+
 •	Automation in the AWS Cloud
+
 •	Fundamentals of VueJS
+
 •	Generative AI: Prompt Engineering Basics
+
 •	Google AI Essentials
+
 •	Introduction to Machine Learning on AWS
+
 •	Java (Basic) 
-•	JavaScript Deep Dive 
+
+•	JavaScript Deep Dive
+
 •	Mastering Test Management and Tools
+
 •	Microsoft Certified: Azure Fundamentals
+
 •	Microsoft Certified: Power Platform Fundamentals
+
 •	Microsoft Certified: Security, Compliance, and Identity Fundamentals
+
 •	Oracle Cloud Infrastructure Foundations 2021
+
 •	Python (Basic) 
+
 •	SQL for Data Science 
+
 •	Selenium WebDriver with Python 
+
 •	Software Engineer 
  
 
