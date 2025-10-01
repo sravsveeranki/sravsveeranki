@@ -152,6 +152,21 @@ The completed application delivered a robust and intuitive mobile experience, co
 
 - Participated in responsive design testing, cross-browser compatibility checks, and accessibility compliance validation (WCAG guidelines) to ensure a seamless user experience across platforms.
 
+### Associate Software Engineer  
+**Verizon** (Apr 2025 - Present)
+
+- Designed and developed end-to-end automation frameworks for web and API testing using Selenium, Python, and Java.
+
+- Integrated automated test suites into CI/CD pipelines (Jenkins, GitHub Actions), reducing release cycle time by 30%.
+
+- Performed functional, regression, and system testing to validate large-scale enterprise applications.
+
+- Collaborated with developers, product managers, and DevOps teams to ensure high-quality, secure, and scalable software releases.
+
+- Enhanced test coverage by building data-driven and reusable test scripts, reducing manual testing effort significantly.
+
+- Conducted cloud-based testing on AWS and Azure environments, ensuring cross-platform compatibility.
+
 ---
 
 ## 📚 Education  
