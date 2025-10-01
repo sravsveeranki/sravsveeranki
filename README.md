@@ -152,7 +152,7 @@ The completed application delivered a robust and intuitive mobile experience, co
 
 - Participated in responsive design testing, cross-browser compatibility checks, and accessibility compliance validation (WCAG guidelines) to ensure a seamless user experience across platforms.
 
-### Associate Software Engineer  
+### QA Automation Engineer  
 **Verizon** (Apr 2025 - Present)
 
 - Designed and developed end-to-end automation frameworks for web and API testing using Selenium, Python, and Java.
