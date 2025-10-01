@@ -1,7 +1,7 @@
 
 # 👩‍💻 Sai Sravani Veeranki  
 
-📧 veerankisaisravaniusa@gmail.com  | 📍 Maryville, MO, USA  
+📧 veerankisaisravaniusa@gmail.com  
 
 ---
 
